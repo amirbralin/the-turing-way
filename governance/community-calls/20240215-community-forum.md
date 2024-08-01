@@ -98,8 +98,8 @@ Would be good to have like a word cloud exercise to bring through different pote
         * Jim for Infrastructure: Without Alex and Anne, the working groups wouldn't exist. Having someone to help keep track of things removes a barrier because then we don't have to be so organised and we can bring our knowledge/skill. It feels less of a burden or commitment. +1+1
         * Kirstie: That's one of the reason why we have the Turing Institute paying people to do it. Bringing volunteers in, and having people use their time that they need their points on, and I'm glad your answer shows something we are already doing!
 * KW: There's a difference between the person that takes the notes, and archive it. They create an environment where you can take decisions. It's a powerful way of informing myself \& Malvika and others in the project. As we start to formalise these decisions under a request for comment, we'll figure out. You can put a request up to discuss this at the constitutional level, or saying that it shouldn't be 'us' making this decision... They are powerful ways of bringing people in and demonstrating how we work.
-*  What should we do for the 5 year anniversary: 
-    * Pin badges, 
+*  What should we do for the 5 year anniversary:
+    * Pin badges
     * Hoodies
     * Swag?
     * Limited edition stickers?
