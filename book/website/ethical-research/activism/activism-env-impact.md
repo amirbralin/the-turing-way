@@ -1,17 +1,6 @@
 (er-activism-env-impact)=
 # The Environmental Impact of Digital Research
 
-```{figure} ../../figures/environmental-impact.*
----
-width: 574px
-name: environmental-impact
-alt: Cartoon-like sketch depicting the potential environmental impact of digital research. The illustration is mostly done in a teal blue, with a black cloud in the background, with emissions written across it. On the left, a person sits at a desk with a laptop, with a chatbot and "COMPUTING" text above, symbolizing digital communication. Behind the chatbot lurks three black cogwheels. In the center, "EMISSIONS" emerge from a factory, representing pollution. On the right, a figure throws computers into the ocean, labeled "WASTE", indicating electronic disposal issues.
-
----
-Illustration of the potential environmental impact of digital research.
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
-```
-
 As multiple reports from the United Nations (such as [IPCC | Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/) and [WMO | Global Annual to Decadal Climate Update](https://public.wmo.int/en/our-mandate/climate/global-annual-decadal-climate-update)) have shown, the global climate crisis impacts all of us. From this, reducing carbon emissions has emerged as a means of addressing the climate crisis. For those of us that do computing as part of our day-to-day work, it can form a significant part of our environmental impact, both for us personally and for our organisation(s). In particular, if you or your group does intensive computing, making use of high-performance computers or cloud resources, for example to train intricate models or run complex simulations, the carbon footprint can be sizable.
 
 
@@ -115,7 +104,7 @@ For the Summit supercomputer it is known that about 63.8% of the power is consum
 Another way of reducing energy usage is to avoid running task unnecessarily. Some examples include:
 
 
-* Running CI[[https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html](https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
+* Running CI[[https://book.the-turing-way.org/reproducible-research/ci/ci-options.html](https://book.the-turing-way.org/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
 * If you do test-driven development, run only tests that have previously failed. In this way you do not need to test code which you already know has been tested. You can use this GH action for limiting when tests (pytest) are run: [https://github.com/marketplace/actions/pytest-last-failed](https://github.com/marketplace/actions/pytest-last-failed) 
 * Run CI with smaller datasets.
 
@@ -126,16 +115,15 @@ Energy usage at different times of the day has different carbon intensity. This 
 
 The Climate Aware Task Scheduler (CATS)[https://github.com/GreenScheduler/cats] has been built specifically with this in mind. This tool can calculate how much carbon will be emitted during the run of a specific task, look at the carbon emission forecast, and schedule the task to be run at a time when carbon intensity is low.
 
-```{figure} ../../figures/carbon_computing.*
+```{figure} ../../figures/environmental-impact.*
+---
+width: 574px
+name: environmental-impact
+alt: Cartoon-like sketch depicting the potential environmental impact of digital research. The illustration is mostly done in a teal blue, with a black cloud in the background, with emissions written across it. On the left, a person sits at a desk with a laptop, with a chatbot and "COMPUTING" text above, symbolizing digital communication. Behind the chatbot lurks three black cogwheels. In the center, "EMISSIONS" emerge from a factory, representing pollution. On the right, a figure throws computers into the ocean, labeled "WASTE", indicating electronic disposal issues.
 
 ---
-height: 500px
-name: Computing has carbon emissions
-
-alt: Computing has carbon emissions
----
-Computing has carbon emissions illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
-
+Illustration of the potential environmental impact of digital research.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
 ```
 
 (er-activism-env-impact-data)=
