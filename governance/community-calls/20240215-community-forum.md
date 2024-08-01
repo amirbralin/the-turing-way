@@ -76,14 +76,14 @@ Name / Organisation and location you are joining from / Social media (if you'd l
 
 ### Comments and questions
 
-* Separating the book dash planning from the continuity work sounds like an excellent idea! Helps avoid burn out and gives a good way to get into the WG.
+* Separating the Book Dash planning from the continuity work sounds like an excellent idea! Helps avoid burn out and gives a good way to get into the WG.
 * For T\&L team: What has been the biggest challenge with onboarding the group?
     * The question is usually: Where do I start? We start with simple tasks: the forward at the beginning and end of the book. Then we move on to more complex tasks. 
 * For T\&L: If other working groups want to adopt your governance, what should they do in order to work in a decentralised way?
     * We communicate openly and will be discussing governance modes that work for this decentralised structure. Probably not a very strict voting system.
 * How has working in a Working Group changed the way you engage with the project?
     * LH/Accessibility WG: I have worked on 3 Book Dashes so far. 
-    * AB/Book Dash WG: It feels empowering to be working with a group to be worknig in an ongoing way and iterating over time and you need a consistent group for. I'm excited to improve the format
+    * AB/Book Dash WG: It feels empowering to be working with a group in an ongoing way. Iterating an event over time  you need a consistent group for. I'm excited to improve the format of the Book Dash
 * The Turing Way can become an example of demonstrating how we think things should be. Have you thought or planned for what support or policy can help with this? Have you thought about how the working groups can help with this process?
     * LH/Accessibility WG: I invite anyone to participate in teh WG. Even if you think you don't know, you do. That learning can help everyone. I can hope that tinfrastructure WG that they could ask us, and I think we will try to make community aware to get guide in writing to make the community aware of what aspects are relevant for them.
 * It might be interesting to adopt a metadata standard for embedding alt text into the image metadata as well as including it in the text of the book see: [https://www.iptc.org/standards/photo-metadata/iptc-standard/](https://www.iptc.org/standards/photo-metadata/iptc-standard/) where they have an alt text field, that way alt text can 'follow the image around' if it is copies to other places. I don't know if support fo this exists in any screen reading software yet.
